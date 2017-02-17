@@ -29,7 +29,7 @@
              'Host': 'api.mindbodyonline.com',
              'Accept-Encoding': 'gzip,deflate',
              'Connection': 'Keep-Alive',
-             'User-Agent': 'EVDOG'
+             'User-Agent': 'EVANTEST'
              
             }
     };
